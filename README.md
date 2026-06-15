@@ -1,6 +1,7 @@
 ## Hi there 👋
-I'm Archana doddi
+I'm Archana Doddi,
 I'm currently learning course of Data analytics
+LinkedIn: https://www.linkedin.com/in/archanadoddi05/
 
 <!--
 **ArchanaDoddi005/ArchanaDoddi005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
