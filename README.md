@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Archana doddi
+I'm Archana doddi
 I'm currently learning course of Data analytics
 
 <!--
